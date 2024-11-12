@@ -213,7 +213,7 @@ Game over! Player B wins with 10 health left.
 
 
 # Author
-Name: Bhushan Chavan
-Email: bhushanchavan2710@gmail.com or bhushanchavan1024@gmail.com
-Phone: +91 7721873720
+- Name: Bhushan Chavan
+- Email: bhushanchavan2710@gmail.com or bhushanchavan1024@gmail.com
+- Phone: +91 7721873720
 
